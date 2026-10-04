@@ -1,7 +1,0 @@
-{
-  "appId": "com.cfdprofit.tracker",
-  "appName": "Profit Tracker",
-  "webDir": "dist",
-  "backgroundColor": "#09090b",
-  "android": { "allowMixedContent": false }
-}
